@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+![image](https://github.com/ajisetiaji101/Weather_Apps/assets/54074581/ad0963ec-5c2c-40ad-85e0-6182869d1bc3)
+
+
